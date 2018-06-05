@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <string name="a1">What this is?</string>
+    <string name="b1">Pig</string>
+    <string name="b2">Timmy</string>
+    <string name="b3">Bee</string>
+    <string name="b4">Bird</string>
+    <string name="b5">Cat</string>
+    <string name="b6">Cow</string>
+    <string name="b7">Dog</string>
+    <string name="b8">Elephant</string>
+    <string name="b9">Kai</string>
+    <string name="b10">Unicorn</string>
+    <string name="a2">Answer</string>
+    <string name="score">Score</string>
+    <string name="play">Play</string>
+    <string name="exit">Exit</string>
+    <string name="a3">Your Score</string>
+</resources>
